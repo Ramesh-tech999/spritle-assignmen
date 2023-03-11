@@ -1,0 +1,25 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.input-elm {
+  width: 50%;
+  height: 50px;
+  margin: 30px;
+}
+.add-button {
+  width: 200px;
+  height: 50px;
+  border-radius: 40px;
+  background-color: blue;
+  color: aliceblue;
+}
+.save-button {
+  width: 200px;
+  height: 50px;
+  border-radius: 40px;
+  background-color: blue;
+  color: aliceblue;
+}

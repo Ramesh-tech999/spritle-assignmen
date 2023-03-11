@@ -1,0 +1,18 @@
+.question-container {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.input-box-ans {
+  width: 50px;
+  height: 50px;
+}
+.save-button-box {
+  width: 100px;
+  height: 40px;
+  border-radius: 30px;
+  background-color: blue;
+  color: aliceblue;
+}

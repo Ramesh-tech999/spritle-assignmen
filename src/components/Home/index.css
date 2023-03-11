@@ -1,0 +1,19 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.start-button {
+  width: 300px;
+  height: 50px;
+  background-color: blue;
+  border-radius: 40px;
+  color: aliceblue;
+}
+.assignment-box {
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+}
